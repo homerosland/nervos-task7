@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Nervos/Sathoshi Pizza Store
 
 Start UI:
 

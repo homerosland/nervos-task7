@@ -1,0 +1,3 @@
+Transaction hash: 0x3d2a9dd18f3e36fad856a5e98575472796841fbaa3f98c8646f9509c2c1fdce9
+Deployed contract address: 0xE0dC75b6bef9EC62F81BE5C21C9DD35402C7a113
+Your sudt id: 1824
